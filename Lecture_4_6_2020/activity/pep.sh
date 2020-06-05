@@ -1,0 +1,1 @@
+node tpp.js treefy "/Users/raghavjindal/Downloads/BPIT-master/PBC/Lecture_3_6_2020/raw/xyz"  "/Users/raghavjindal/Downloads/BPIT-master/PBC/Lecture_3_6_2020/raw/dest"
